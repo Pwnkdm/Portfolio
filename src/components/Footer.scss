@@ -1,0 +1,70 @@
+.title-left {
+  font-size: 30px;
+  margin-top: 3%;
+
+  text-align: left;
+}
+.underline {
+  border: 2px solid khaki;
+  width: 18%;
+  margin-bottom: 7%;
+}
+#name,
+#email,
+#subject,
+#message {
+  width: 100%;
+  font-size: 20px;
+  padding-left: 2%;
+}
+#lead {
+  font-size: 20px;
+  text-align: left;
+}
+.social-links {
+  text-align: left;
+}
+.address {
+  text-align: left;
+  margin-top: 15%;
+}
+.button {
+  width: 150px;
+  height: 50px;
+  background-color: khaki;
+  font-weight: bold;
+  font-family: monospace, Times, serif;
+}
+.button {
+  color: rgb(15, 14, 14);
+  font-size: 23px;
+  line-height: 12px;
+  padding: 16px;
+  border-radius: 50px;
+  font-family: Georgia, serif;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  width: 190px;
+  background-image: linear-gradient(
+    to right,
+    khaki 0%,
+    rgb(190, 176, 48) 50%,
+    rgb(238, 217, 26) 100%
+  );
+  box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px;
+  border: 2px solid black;
+  display: inline-block;
+}
+.button:hover {
+  background: khaki;
+}
+.button:active {
+  background-color: rgb(238, 216, 20);
+}
+i:hover {
+  font-size: 30px;
+  color: khaki;
+}

@@ -1,0 +1,296 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Pawanraje Kadam. A passionate aspiring Full Stack Developer focused on creating beautiful, user-friendly apps and building a responsive web site using React-Redux while writing clean code. Skilled in MERN stack, molded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth :) ⭐ Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills"
+    }
+  },
+  "projects": [
+    {
+      "title": "MyHours.com-Clone",
+      "startDate": "2022",
+      "description": "My Hours is a cloud-based time tracking solution best suited for small teams and freelancers. Users can start time tracking on unlimited projects and tasks in seconds, generate insightful reports, and create invoices.",
+      "images": [
+        "https://miro.medium.com/max/1400/1*PchcMs__zlMEZHLycGMwsA.png",
+        "https://miro.medium.com/max/1400/1*bxjAFLMIY7dnd_3xSFIJ-Q.png",
+        "https://miro.medium.com/max/1400/1*LADiZ93oUELacG3UkUvYuQ.png"
+      ],
+      "url": "https://myhours.vercel.app/",
+      "git": "https://github.com/Pwnkdm/Myhours-clone",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDb"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        }
+      ]
+    },
+
+    {
+      "title": "MyGlamm.com - Clone",
+      "startDate": "2022",
+      "description": "MyGlamm is a direct-to-consumer beauty brand that offers an online beauty products marketplace with international spa and salon products. The company uses a combination of technology, content, and social media to allow consumers to not only discover its products but also create rich, personalized, content and tutorial.",
+      "images": [
+        "https://user-images.githubusercontent.com/99639007/171352748-68c11c1f-3e1d-452d-8e24-ae033e211080.png",
+        "https://user-images.githubusercontent.com/99639007/171856515-1d1fe108-ca88-4996-a968-d5de1630aa0a.png",
+        "https://user-images.githubusercontent.com/99639007/171855786-0e22c246-e2f1-4aaa-9688-e48765ebe1e4.png"
+      ],
+      "url": "https://taupe-alfajores-6c25cc.netlify.app/",
+      "git": "https://github.com/Pwnkdm/myGlamm",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        }
+      ]
+    },
+    {
+      "title": "Travelocity.com-clone",
+      "startDate": "2022",
+      "description": "Travelocity is an online travel agency by Expedia group. That allowed consumers the ability to purchase travel tickets.In addition to airfares, the site also permits consumers to book hotel rooms, rental cars, cruises and packaged vacations. It is collaborative project build by team 6 peoples executed in 6 days.",
+      "images": [
+        "https://user-images.githubusercontent.com/99590191/171815893-8ca5b724-643a-4a3c-9471-c115fe695ee7.png",
+        "https://user-images.githubusercontent.com/99590191/188865797-255d7637-9335-4319-8a01-13b0d8380d4a.PNG",
+        "https://user-images.githubusercontent.com/99590191/188865761-1b5bb2af-5404-4fac-b08b-d68a14e4629b.PNG"
+      ],
+      "url": "https://celadon-dodol-b03f1e.netlify.app/",
+      "git": "https://github.com/Pwnkdm/React_Travelocity_Clone",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        }
+      ]
+    },
+    {
+      "title": "BigBasket.com-clone",
+      "startDate": "2022",
+      "description": "BigBasket is an online food and grocery store that delivers personal and household needs right to the customer's doorstep. It is collaborative project build by team 6 peoples executed in 6 days.",
+      "images": [
+        "https://user-images.githubusercontent.com/99590191/189520521-eae84042-3190-46f7-96f7-fa9821b684b9.png",
+        "https://user-images.githubusercontent.com/99590191/189521493-e3a0beea-a35b-4dbb-b6fb-a4a80a896088.PNG",
+        "https://user-images.githubusercontent.com/99590191/189521495-9946b61f-f1e0-483a-aac5-14a338bd7a80.PNG"
+      ],
+      "url": "https://meek-hummingbird-8db362.netlify.app/",
+      "git": "https://github.com/Pwnkdm/BigBasketProject",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Zee5-clone",
+      "startDate": "2022",
+      "description": "ZEE5 is an Indian subscription video on-demand and over-the-top streaming service, run by Zee Entertainment Enterprises.",
+      "images": [
+        "https://user-images.githubusercontent.com/99590191/174241922-a301f02b-25f6-4d22-9108-bfa7b9ef594a.png",
+        "https://user-images.githubusercontent.com/99590191/174243616-06a39312-3aba-470b-ad88-65924776c709.png",
+        "https://user-images.githubusercontent.com/99590191/174243173-9d857dbe-8583-4c5a-991e-ed77c09999be.png"
+      ],
+      "url": "https://pwnkdmzee5clone.vercel.app/",
+      "git": "https://github.com/Pwnkdm/Zee5-clone",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        }
+      ]
+    },
+
+    {
+      "title": "Movie App",
+      "startDate": "2022",
+      "description": "Are you a movie lover?  I used a movies API to show top rated movies with their posters, ratings , released date and other details. Users can use the search bar to look up specific movie titles.",
+      "images": [
+        "https://user-images.githubusercontent.com/99590191/189522051-3fd8d8f2-21a2-4cf8-828d-e11400472888.PNG",
+        "https://user-images.githubusercontent.com/99590191/189522337-76786f65-b089-4d37-ba73-62c5f7a4a7d7.PNG",
+        "https://user-images.githubusercontent.com/99590191/189522163-552d0aaf-27ca-4cc6-bd91-db2d05698bb2.PNG"
+      ],
+      "url": "https://majestic-mermaid-3d4170.netlify.app/",
+      "git": "https://github.com/Pwnkdm/Movies_Search_App",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+
+    {
+      "title": "Weather App",
+      "startDate": "2022",
+      "description": "A mini/solo project in which that detect weather of giving location using weather api, in this i user component based js, html and css ",
+      "images": [
+        "https://user-images.githubusercontent.com/99590191/189522565-ee36ce6a-36c5-47a1-9967-0150e03a9691.PNG",
+        "https://user-images.githubusercontent.com/99590191/189522565-ee36ce6a-36c5-47a1-9967-0150e03a9691.PNG",
+        "https://user-images.githubusercontent.com/99590191/189522565-ee36ce6a-36c5-47a1-9967-0150e03a9691.PNG"
+      ],
+      "url": "https://frolicking-duckanoo-adecec.netlify.app/",
+      "git": "https://github.com/Pwnkdm/Weather_app",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ]
+}

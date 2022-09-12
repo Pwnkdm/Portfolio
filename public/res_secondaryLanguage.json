@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "description_header": "नमस्ते",
+    "description": "👋 मेरा नाम पवनराजे कदम है. एक भावुक आकांक्षी पूर्ण स्टैक डेवलपर सुंदर, उपयोगकर्ता के अनुकूल ऐप्स बनाने और स्वच्छ कोड लिखते समय रिएक्ट-रेडक्स का उपयोग करके एक उत्तरदायी वेब साइट बनाने पर ध्यान केंद्रित करता है। MERN स्टैक में कुशल, मसाई स्कूल के गहन और इमर्सिव लर्निंग द्वारा ढाला और आकार दिया गया। एक ऐसी कंपनी में शामिल होने के लिए तत्पर हैं जहां मैं व्यक्तिगत और कंपनी के विकास में योगदान करने में सक्षम होऊंगा। :) ⭐ धन्यवाद 💜",
+    "section_name": {
+      "about": "मेरे बारे में",
+      "projects": "परियोजनाएं",
+      "skills": "कौशल"
+    }
+  },
+  "projects": [
+    {
+      "title": "Lybrate.com - Clone",
+      "startDate": "2022",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by mentors. The project deals with developing an e-commerce website for health care products. An online store where customers can select products of interest. The selected items collected in a shopping cart. For checkout, customer will be asked to fill address and payment information. Email is sent to the customer for OTP verification and for successful payment/order placed.",
+      "images": [
+        "https://i.imgur.com/0zq4yBA.png",
+        "https://i.imgur.com/XmJKkX9.png",
+        "https://i.imgur.com/GSiuheW.png"
+      ],
+      "url": "https://librate.netlify.app",
+      "git": "https://github.com/pankajnandi/lybrateFrontend",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDb"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDb"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        }
+      ]
+    },
+    {
+      "title": "Amazon landing page",
+      "startDate": "2022",
+      "description": "Personal project for study subject. The objective is cloning amazon.in  landing page and improving skills. Working alone was pretty challenging and I made it complete. Main features are slideshow, hovering effect, dropdown on hover etc.",
+      "images": [
+        "https://i.imgur.com/iNfO0Dd.png",
+        "https://i.imgur.com/bWrEWyy.png",
+        "https://i.imgur.com/ATlPltU.png"
+      ],
+      "url": "https://amazonlandingpage.netlify.app/",
+      "git": "https://github.com/pankajnandi/amazon_landing_page",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ]
+}

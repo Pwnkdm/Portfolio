@@ -1,0 +1,30 @@
+#mainNav{
+    border: 1px solid;
+    background-color: #1f1f1f;
+}
+
+.container>div>div>a,.flex>div>a{
+    color: white;
+    font-size: 22px;
+    border:3px solid #1f1f1f;
+}
+.container>div>div>a:hover, .flex>div>a:hover{
+    border-bottom: 3px solid khaki;
+    color: Khaki;
+}
+.container,.flex{
+    display:flex;
+}
+
+.left{
+    flex: 25%;
+}
+
+@media (max-width: 550px){
+    .container>div>div>a,.flex>div>a{
+        font-size: 12px;
+    }
+    .left{
+        flex: 8%;
+    }
+}
