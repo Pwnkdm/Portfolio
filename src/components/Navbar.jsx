@@ -41,6 +41,7 @@ const Navbar = () => {
               href="/Pawan_kadam.pdf"
               target="_blank"
               rel="noopener noreferrer"
+              download="Pawan_kadam.pdf"
             >
               Resume
             </a>
