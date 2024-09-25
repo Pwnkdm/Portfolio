@@ -23,7 +23,9 @@ class About extends Component {
                 <span style={{ cursor: "auto" }}>
                   <img
                     // height="350px"
-                    src={profilepic}
+                    src={
+                      "https://res.cloudinary.com/drfbvnwqd/image/upload/v1727257982/v3trymjgnjiecjgaruvi.png"
+                    }
                     alt="Avatar placeholder"
                   />
                 </span>

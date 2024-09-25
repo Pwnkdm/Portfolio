@@ -250,47 +250,6 @@
           "name": "JavaScript"
         }
       ]
-    },
-
-    {
-      "title": "Weather App",
-      "startDate": "2022",
-      "description": "A mini/solo project in which that detect weather of giving location using weather api, in this i user component based js, html and css ",
-      "images": [
-        "https://user-images.githubusercontent.com/99590191/189522565-ee36ce6a-36c5-47a1-9967-0150e03a9691.PNG",
-        "https://user-images.githubusercontent.com/99590191/189522565-ee36ce6a-36c5-47a1-9967-0150e03a9691.PNG",
-        "https://user-images.githubusercontent.com/99590191/189522565-ee36ce6a-36c5-47a1-9967-0150e03a9691.PNG"
-      ],
-      "url": "https://frolicking-duckanoo-adecec.netlify.app/",
-      "git": "https://github.com/Pwnkdm/Weather_app",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "Css3"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ],
-      "techno": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "Css3"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
     }
   ]
 }

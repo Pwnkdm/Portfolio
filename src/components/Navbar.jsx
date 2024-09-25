@@ -36,7 +36,12 @@ const Navbar = () => {
             </a>
           </div>
           <div>
-            <a className="nav-link js-scroll" href="./">
+            <a
+              className="nav-link js-scroll"
+              href="/Pawan_kadam.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Resume
             </a>
           </div>
