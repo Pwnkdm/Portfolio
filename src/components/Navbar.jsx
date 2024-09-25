@@ -38,10 +38,21 @@ const Navbar = () => {
           <div>
             <a
               className="nav-link js-scroll"
-              href="/Pawan_kadam.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-              download="Pawan_kadam.pdf"
+              href="#"
+              onClick={(e) => {
+                e.preventDefault(); // Prevent default anchor behavior
+
+                // Open the file in a new tab
+                window.open("/Pawan_kadam.pdf", "_blank");
+
+                // Create a temporary link to trigger the download
+                const link = document.createElement("a");
+                link.href = "/Pawan_kadam.pdf";
+                link.download = "Pawan_kadam.pdf";
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+              }}
             >
               Resume
             </a>
